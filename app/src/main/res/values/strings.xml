@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubSearch</string>
+    <string name="loading">Loading</string>
+    <string name="language">Language: %s</string>
+    <string name="search_hint">GitHub Repository</string>
+    <string name="no_results">No results 😓</string>
+    <string name="unknown">\?</string>
+    <string name="enter_text_to_search">Enter text to search 😀 </string>
+</resources>
